@@ -1,0 +1,37 @@
+{
+   "usuario1" : {
+      "nome" : "usuario1",
+      "senha" : "senha1",
+      "email" : "usuario1@gmail.com",
+      "total" : "5000",
+      "gasto_mes": "500",
+      "receita_mes": "1500",
+      "economia": "0",
+      "mes_economia": "1",
+      "id": 1
+   },
+   
+   "usuario2" : {
+      "nome" : "usuario2",
+      "senha" : "senha2",
+      "email" : "usuario2@superig.com.br",
+      "total" : "3000",
+      "gasto_mes": "200",
+      "receita_mes": "1000",
+      "economia": "500",
+      "mes_economia": "2",
+      "id": 2
+   },
+   
+   "usuario3" : {
+      "nome" : "usuario3",
+      "senha" : "senha3",
+      "email" : "usuario3@hotmail.com",
+      "total" : "1000",
+      "gasto_mes": "2000",
+      "receita_mes": "1800",
+      "economia": "500",
+      "mes_economia": "2",
+      "id": 3
+   }
+}

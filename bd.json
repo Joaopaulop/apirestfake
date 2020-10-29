@@ -1,4 +1,4 @@
-{
+[
    "usuario1" : {
       "nome" : "usuario1",
       "senha" : "senha1",
@@ -34,4 +34,4 @@
       "mes_economia": "2",
       "id": 3
    }
-}
+]

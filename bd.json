@@ -1,0 +1,22 @@
+{
+   "usuario1" : {
+      "nome" : "usuario1",
+      "senha" : "senha1",
+      "email" : "usuario1@gmail.com",
+      "id": 1
+   },
+   
+   "usuario2" : {
+      "nome" : "usuario2",
+      "senha" : "senha2",
+      "email" : "usuario2@superig.com.br",
+      "id": 2
+   },
+   
+   "usuario3" : {
+      "nome" : "usuario3",
+      "senha" : "senha3",
+      "email" : "usuario3@hotmail.com",
+      "id": 3
+   }
+}
